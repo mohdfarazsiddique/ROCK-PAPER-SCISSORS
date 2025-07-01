@@ -23,20 +23,5 @@ elif(computer-you == 1 or computer-you == -2):
 else:
     print("It's a draw")
 
-# #logic
-# if (computer == you):
-#     print("It's a draw")
-# else:
-#     if ( computer==1 and you==2 ):
-#         print("You won")
-#     elif ( computer==1 and you==3 ):
-#         print("You lost")
-#     elif ( computer==2 and you==1 ):
-#         print("You lost")
-#     elif ( computer==2 and you==3 ):
-#         print("You won")
-#     elif ( computer==3 and you==1 ):
-#         print("You won")
-#     elif ( computer==3 and you==2 ):
-#         print("You lost")
+
 
